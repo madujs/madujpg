@@ -1,8 +1,7 @@
 ### Olá!!! Eu sou a Madu Amorim 👋
 
-- 🌱 Estudando JavaScript, HTML e CSS
+- 🌱 Estudando JavaScript
 - 😄 Pronomes: Ela/Dela
-- ⚡ Fun fact: Sou completamente apaixonada por animas! Hoje tenho 3 gatinhos na minha vida 🐈🐈🐈
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
